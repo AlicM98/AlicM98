@@ -1,7 +1,7 @@
 ## Oiee, sou a Alice 
 
 💻Atualmente trabalho como Analista de Marketing Digital. 
-👨🏽‍🎓Estou cursando Analise e Desenvolvimento de Sistemas. 
+👨🏽‍🎓Sou formada em Analise e Desenvolvimento de Sistemas. 
 
 <div>
   <a href="https://github.com/AlicM98">
