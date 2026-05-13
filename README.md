@@ -1,19 +1,3 @@
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=AlicM98&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
-  />
-
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicM98&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
-  />
-</p>
-
----
-
 ## 🚀 Tecnologias
 
 <p align="center">
