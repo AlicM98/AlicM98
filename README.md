@@ -1,32 +1,38 @@
-# Oiee, eu sou a Alice 👋
+## 📊 Estatísticas do GitHub
 
-💻 Atualmente trabalho como Analista de Marketing Digital 
-🎓 Formada em Análise e Desenvolvimento de Sistemas | Recursos Humanos  
-📊 Apaixonada por tecnologia, dados, desenvolvimento web e criação de soluções digitais  
+<p align="center">
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=AlicM98&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+  />
 
-<div align="center">
-  <a href="[GitHub da Alice](https://github.com/AlicM98?utm_source=chatgpt.com)">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlicM98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicM98&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicM98&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+  />
+</p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<p align="center">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
+  <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+  <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img alt="CSharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</p>
+
+---
+
+## 🌎 Redes
+
+- 💻 GitHub: [github.com/AlicM98](https://github.com/AlicM98)
 
